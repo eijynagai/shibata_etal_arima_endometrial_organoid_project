@@ -1,2 +1,2 @@
-*.ipynb
-*.sh
+*.ipynb linguist-vendored
+*.sh linguist-vendored
